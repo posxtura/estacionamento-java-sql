@@ -1,0 +1,8 @@
+dao\TicketDAO.class
+dao\VagaDAO.class
+service\EstacionamentoService.class
+app\Principal.class
+model\Veiculo.class
+db\ConexaoMySQL.class
+model\Ticket.class
+model\Vaga.class
