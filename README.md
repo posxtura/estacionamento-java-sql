@@ -1,24 +1,24 @@
-# 🚗 Sistema de Gerenciamento de Estacionamento
+# Sistema de Gerenciamento de Estacionamento
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 
 Sistema completo para controle de vagas e tickets de estacionamento desenvolvido em Java com persistência em MySQL.
 
-## 🎯 Funcionalidades
+## Funcionalidades
 - Controle de vagas (livres/ocupadas)
 - Registro de entrada/saída de veículos
 - Cálculo automático de tempo estacionado
 - Emissão de tickets
 - Relatórios de ocupação
 
-## 🛠 Pré-requisitos
+## Pré-requisitos
 - Java JDK 17+
 - MySQL Server 8.0+
 - Maven 3.6+
 - IDE (Feito no NetBeans)
 
-## ⚙️ Configuração
+## Configuração
 
 1. **Banco de Dados**:
    ```sql
@@ -34,7 +34,7 @@ Sistema completo para controle de vagas e tickets de estacionamento desenvolvido
    db.password=estacionamento
    ```
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 ```
 src/
 ├── main/
